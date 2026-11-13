@@ -1,0 +1,9 @@
+.env
+.env.*
+node_modules
+.next
+.next-hrms-build
+private-uploads
+*.log
+.git
+README.md
